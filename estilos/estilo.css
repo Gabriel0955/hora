@@ -78,3 +78,20 @@ a{
 .dia{
     margin-bottom: 30px;
 }
+@media (min-width: 1200px) {
+    body {
+        background-color: rgb(49, 42, 42);
+        background-image:url("https://w0.peakpx.com/wallpaper/990/176/HD-wallpaper-marvel-s-moon-knight.jpg");
+        background-size: contain;
+        background-position: center center;
+        background-repeat:space;
+          
+    }
+    .padre{
+        margin-top: 5%;
+    }
+    h2 {
+        margin-top: 2%;
+    }
+  
+  }
