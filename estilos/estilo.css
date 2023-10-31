@@ -102,6 +102,7 @@ a{
     position: absolute;
     margin-left: 280px;
     
+    
 
 }
 
@@ -110,4 +111,40 @@ a{
     margin-top: 200px;
     position: absolute;
     margin-right: 280px;
+}
+@keyframes anima{
+    10%{
+        margin-top: -30px;
+        transition: 5s;
+    }
+    20%{
+        margin-top: -60px;
+    }
+    30%{   
+        margin-top: -90px;
+    }
+    40%{
+        margin-top: -120px;
+    }
+    50%{
+        margin-top: -150px;
+    }
+    60%{
+        margin-top: -180px;
+
+    }
+    70%{
+        margin-top: -210px;
+    }
+    80%{
+        margin-top: -240px;
+    }
+    90%{
+        margin-top: -270px;
+    }
+    99%{
+        margin-top: -300px;
+    }
+
+
 }
