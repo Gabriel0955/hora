@@ -96,7 +96,7 @@ a{
     }
   
   }
-.iron{
+#iron{
     width: 100px;
     margin-top: 200px;
     position: absolute;
@@ -104,19 +104,10 @@ a{
     
 
 }
-.iron:active{
-    margin-top: -300px;
-    transition: 4s;
-    
-}
-.mon{
+
+#mon{
     width: 100px;
     margin-top: 200px;
     position: absolute;
     margin-right: 280px;
-}
-.mon:active{
-    margin-top: -300px;
-    transition: 4s;
-    
 }
