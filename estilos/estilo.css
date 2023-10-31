@@ -63,6 +63,7 @@ button{
     font-style: italic;
     text-align: center;
     margin-bottom: 30px;
+    
 }
 button:hover{
     color: black;
@@ -95,3 +96,17 @@ a{
     }
   
   }
+.iron{
+    width: 100px;
+    margin-top: -100px;
+    position: absolute;
+    margin-left: 300px;
+    
+
+}
+.mon{
+    width: 100px;
+    margin-top: -100px;
+    position: absolute;
+    margin-right: 300px;
+}
