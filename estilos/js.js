@@ -17,7 +17,9 @@ function sitio(){
 function detenerAnimacion() {
     iron.style.visibility = 'hidden';
     mon.style.visibility = 'hidden';
+
 }
 
-setTimeout("detenerAnimacion()",0)
+
 setTimeout("sitio()",3000)
+setTimeout("detenerAnimacion()",0)
