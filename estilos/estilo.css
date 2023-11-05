@@ -97,7 +97,7 @@ a{
   
   }
 #iron{
-    width: 100px;
+    width: 80px;
     margin-top: 200px;
     position: absolute;
     margin-left: 280px;
@@ -107,7 +107,7 @@ a{
 }
 
 #mon{
-    width: 100px;
+    width: 80px;
     margin-top: 200px;
     position: absolute;
     margin-right: 280px;
