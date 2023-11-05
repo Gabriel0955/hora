@@ -105,17 +105,34 @@ a{
     
 
 }
-
-#mon{
+#irondes{
     width: 80px;
     margin-top: 200px;
     position: absolute;
+    margin-left: 280px;
+    
+    
+
+}
+#mondes{
+    width: 100px;
+    margin-top: 200px;
+    position: absolute;
     margin-right: 280px;
+}
+
+#mon{
+    width: 150px;
+    margin-top: 200px;
+    position: absolute;
+    margin-right: 280px;
+    
 }
 @keyframes anima{
     from {
         transform: translateY(0);
         transition: 10s;
+        
     }
     to {
         transform: translateY(-300px);
@@ -125,4 +142,9 @@ a{
 
 
 
+}
+@keyframes cambia{
+    10%{
+
+    }
 }
